@@ -13,3 +13,4 @@ In my opinion, these qualities are really important in these time. Only the pers
 
 Then, we watched a serious of video about how people control their emotion. The words impressed me the most is from a optimistic girl."We should focus on what we can do instead of what we could have done."
 
+So, I will try my best to improve my EQ in the coming four years.

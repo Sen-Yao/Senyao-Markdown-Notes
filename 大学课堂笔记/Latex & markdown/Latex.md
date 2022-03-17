@@ -31,6 +31,30 @@
 例：
 <!--你看不见我-->
 
+### 代码
+
+单行代码：使用反引号" ` "包围代码
+
+例：
+
+`printf("Hello, world!")`
+
+多行代码：使用三个反引号包围代码
+
+例：
+
+```
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+    printf("Hello, world!");
+    return 0;
+}
+```
+
 ## 数学公式
 
 ### 大于小于号
